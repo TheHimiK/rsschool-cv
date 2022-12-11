@@ -4,7 +4,7 @@
 ### Contact information:
 Location: Yaroslavl, Russia
 
-Discord:
+Discord:StranniK#7316
 
 GitHub: @TheHimiK
 
