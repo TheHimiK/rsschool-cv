@@ -10,7 +10,7 @@ GitHub: @TheHimiK
 
 ### About Me
 
-I strive to develop in the field of IT
+I strive to develop in the field of IT.
 
 ### Skills:
 - HTML
