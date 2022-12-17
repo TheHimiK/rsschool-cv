@@ -18,7 +18,9 @@ I strive to develop in the field of IT.
   <li>CSS</li>
   <li>JavaScript</li>
   </ul>
+  
 ### Code Example
+
 nothing here yet
 ### Education
   self-study
