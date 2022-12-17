@@ -13,9 +13,11 @@ GitHub: @TheHimiK
 I strive to develop in the field of IT.
 
 ### Skills:
-- HTML
-- CSS
-- JavaScript
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  </ul>
 ### Code Example
 nothing here yet
 ### Education
@@ -25,5 +27,5 @@ nothing here yet
 My first CV
 
 ### Languages
-Russian - native speaker
+Russian - native speaker <br>
 English - A1
