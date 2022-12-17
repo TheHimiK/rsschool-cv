@@ -16,9 +16,8 @@ I strive to develop in the field of IT.
 - HTML
 - CSS
 - JavaScript
-
 ### Code Example
-
+nothing here yet
 ### Education
   self-study
   
@@ -27,4 +26,4 @@ My first CV
 
 ### Languages
 Russian - native speaker
-English - 
+English - A1
