@@ -1,41 +1,5 @@
 #body
 {
-<<<<<<< Updated upstream
-    background-color: rgb(141, 140, 140);
-position: relative;
-left: 8%;
-width: 80% ;
-}
-.header
-{
-    background-color: dodgerblue;
-}
-.ffe
-{
-    text-align: right;
-    text-decoration: underline;
-}
-.left-right
-{
-    background-color: orange;
-    text-indent:15px;
-}
-.center
-{
-    background-color: rgb(214, 214, 214);
-}
-.main
-{
-    display: flex;
-}
-.header
-{
-    display: flex;
-}
-.image
-{
-    flex: 1;
-=======
     width: 75vw;
     margin: 0 auto;
     background-color: rgb(0, 0, 0);
@@ -110,17 +74,9 @@ footer
     margin-inline-end: 0px;
     padding: 15px;
     text-decoration: underline;
->>>>>>> Stashed changes
 }
 .github-href
 {
     text-decoration: none;
     color: black;
 }
-<<<<<<< Updated upstream
-=======
-.footer-name
-{
-    text-align: center;
-}
->>>>>>> Stashed changes
