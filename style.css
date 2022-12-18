@@ -1,5 +1,6 @@
 #body
 {
+<<<<<<< Updated upstream
     background-color: rgb(141, 140, 140);
 position: relative;
 left: 8%;
@@ -34,9 +35,92 @@ width: 80% ;
 .image
 {
     flex: 1;
+=======
+    width: 75vw;
+    margin: 0 auto;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.header
+{
+    display: flex;
+    background-color:rgb(0, 103, 220);
+    color: rgb(255, 255, 255);
+    float: left;
+    justify-content: space-between;
+    height: 34%;
+    width: 75vw;
+
+}
+.left-right
+{
+    display: flex;
+    flex-direction: column;
+    background-color: orange;
+    padding:0 10px;
+}
+.main
+{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 75vw;
+}
+.center
+{
+    display: flex;
+    flex-direction: column;
+    padding:0 10px;
+    justify-content: space-between 10px;
+}
+footer
+{
+    display: flex;
+    background-color: orange;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+#img
+{
+    width: 147px;
+    height: 110px;
+    float: left;
+    border-radius: 20px 0 0 0;
+    order: 1;
+}
+.my-name
+{
+    order: 2;
+    margin: 0;
+    padding: 0 15px;
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 600;
+}
+.info
+{
+    order: 3;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding: 15px;
+    text-decoration: underline;
+>>>>>>> Stashed changes
 }
 .github-href
 {
     text-decoration: none;
     color: black;
 }
+<<<<<<< Updated upstream
+=======
+.footer-name
+{
+    text-align: center;
+}
+>>>>>>> Stashed changes
