@@ -30,6 +30,7 @@
     display: flex;
     background-color: rgb(255, 255, 255);
     width: 75vw;
+
 }
 .center
 {
@@ -84,4 +85,18 @@ footer
 {
     color: black;
     text-decoration: none;
+}
+.navigation
+{
+    background-color:rgb(0, 103, 220);
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    font-size: larger;
+}
+nav>ol
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
 }
